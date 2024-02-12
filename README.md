@@ -22,6 +22,9 @@
 ソース  
 [https://github.com/naysok/Expand_All_Layer/blob/main/ExpandLayer_cmd.py](https://github.com/naysok/Expand_All_Layer/blob/main/ExpandLayer_cmd.py)  
 
+動作確認済みは下記。  
+- Rhino7 en-us (Windows10)  
+
 
 ## Ref  
 
